@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🔝 Top Contributed Repo
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME)
 
-<!--
-**CleanAmirHosseinDev/CleanAmirHosseinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐦 Latest Tweet
+[![Twitter Badge](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE)
 
-Here are some ideas to get you started:
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat-square&logo=rust)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat-square&logo=solidity)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Socials
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Twitter](https://twitter.com/YOUR_TWITTER_HANDLE) | [Telegram](https://t.me/YOUR_TELEGRAM)
+
+# 💫 About Me
+Blockchain developer | Rust & Solidity | Smart Contract Auditor
