@@ -4,7 +4,7 @@ Software Engineer with 6+ years of experience across Web2 enterprise systems and
 🔹 **Web2 (4+ years):** Backend development with C#/.NET (2.2–9), .NET Framework, SQL Server, NoSQL (PostgresDB), and JavaScript/MVC. Experienced in financial trading platforms, order book systems, fund management, market depth, and microservices architecture.  
 🔹 **Blockchain (2+ years):** Smart contract development with Solidity (EIPs, ERC standards), DeFi protocols, and Account Abstraction (ERC-4337). Hands-on experience with zkSync / Layer 2 rollups. Familiar with Stellar & Soroban (Rust-based smart contracts), as well as Automated Market Makers (AMMs) and Uniswap v3 mechanics at a conceptual level. Participated in CodeArena, Cyfrin, and FirstLight audit/learning programs.  
 
-**Core Skills:** C#/.NET | SQL/NoSQL | Microservices | Financial Systems | Solidity | Smart Contracts | EIPs | ERC-4337 | zkSync | Layer 2 | DeFi | Docker | Git | Stellar (Familiar) | Soroban (Rust, Familiar) | AMMs & Uniswap v3 (Conceptual)  
+**Core Skills:** C#/.NET | SQL/NoSQL | Financial Systems | Solidity | Smart Contracts | EIPs | ERC-4337 | zkSync | Layer 2 | DeFi | Docker | Git | Stellar (Familiar) | Soroban (Rust, Familiar) | AMMs & Uniswap v3 (Conceptual)  
 
 Passionate about bridging enterprise financial systems with secure blockchain solutions, and open to international opportunities (Europe & English-speaking markets).  
 
