@@ -48,6 +48,3 @@ Software Engineer with 6+ years of experience across Web2 enterprise systems and
 ---
 
 [![](https://visitcount.itsvg.in/api?id=CleanAmirHosseinDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Wave Footer -->
-<img src="https://raw.githubusercontent.com/JohnMwendwa/JohnMwendwa/main/wave.svg" width="100%" />
