@@ -11,7 +11,11 @@ Passionate about bridging enterprise financial systems with secure blockchain so
 ---
 
 # 🌐 Socials
-[Telegram](https://t.me/EdaLaT_6) | [LinkedIn](https://www.linkedin.com/in/amirhosseinedalati/) | [Instagram](https://www.instagram.com/amir_edalaat/) | [Discord](https://discord.com/users/amirhossingeschaft) | [WhatsApp](https://wa.me/989362401812)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EdaLaT_6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosseinedalati/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amir_edalaat/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/amirhossingeschaft)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989362401812)
 
 ---
 
