@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=Blockchain+-+Backe-End+Developer+%26+UX%2FWeb3+Security+Etherium)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=Blockchain+-+Backe-End+Developer+%26+Solidity%2FWeb3+Security+Etherium)
 
 </div>
 
