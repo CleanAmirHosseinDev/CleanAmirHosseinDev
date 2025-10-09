@@ -1,3 +1,26 @@
+<pre align="center">
+
+██╗███╗   ███╗     ██╗  ██╗ █████╗ ██████╗ ███████╗██╗      ██████╗ 
+██║████╗ ████║     ██║ ██╔╝██╔══██╗██╔══██╗██╔════╝██║     ██╔═══██╗
+██║██╔████╔██║     █████╔╝ ███████║██████╔╝█████╗  ██║     ██║   ██║
+██║██║╚██╔╝██║     ██╔═██╗ ██╔══██║██╔═══╝ ██╔══╝  ██║     ██║   ██║
+██║██║ ╚═╝ ██║     ██║  ██╗██║  ██║██║     ███████╗███████╗╚██████╔╝
+╚═╝╚═╝     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝ ╚═════╝ 
+
+</pre>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=AI+-+Front-End+Developer+%26+UX%2FUI+Product+Designer)
+
+</div>
+
+
+
+--------
+
+
+
 # 💫 About Me:
 Software Engineer with 6+ years of experience across Web2 enterprise systems and Blockchain/Web3 development.  
 🔹 **Web2 (4+ years):** Backend development with C#/.NET (2.2–9), .NET Framework, SQL Server, NoSQL (PostgresDB), and JavaScript/MVC. Experienced in financial trading platforms, order book systems, fund management, market depth, and microservices architecture.  
