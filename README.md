@@ -135,13 +135,6 @@ Software Engineer with 6+ years of experience across Web2 enterprise systems and
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CleanAmirHosseinDev/CleanAmirHosseinDev/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ### 💡 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
