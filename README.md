@@ -88,6 +88,8 @@ Software Engineer with 6+ years of experience across Web2 enterprise systems and
 
 #### 🔒 Security & Auditing
 <p align="center">
+  <img src="https://img.shields.io/badge/Sherlock-FF6B6B?style=flat-square&logo=shield&logoColor=white" alt="Sherlock"/>
+  <img src="https://img.shields.io/badge/Immunifi-FF6B6B?style=flat-square&logo=shield&logoColor=white" alt="Immunifi"/>
   <img src="https://img.shields.io/badge/CodeArena-FF6B6B?style=flat-square&logo=shield&logoColor=white" alt="CodeArena"/>
   <img src="https://img.shields.io/badge/Cyfrin%20Audits-556B2F?style=flat-square&logo=lock&logoColor=white" alt="Cyfrin"/>
   <img src="https://img.shields.io/badge/FirstLight-6B8E23?style=flat-square&logo=search&logoColor=white" alt="FirstLight"/>
