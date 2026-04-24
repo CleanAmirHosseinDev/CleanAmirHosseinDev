@@ -64,7 +64,6 @@ Software Engineer with 6+ years of experience across Web2 enterprise systems and
   <a href="https://ethereum.org/"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/></a>
   <a href="https://zksync.io/"><img src="https://img.shields.io/badge/zkSync-4E529A?style=for-the-badge&logo=zksync&logoColor=white"/></a>
   <a href="https://solana.com/"><img src="https://img.shields.io/badge/Solana-556B2F?style=for-the-badge&logo=solana&logoColor=white"/></a>
-  <a href="https://stellar.org/"><img src="https://img.shields.io/badge/Stellar-7D3C98?style=for-the-badge&logo=stellar&logoColor=white"/></a>
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
   <a href="https://lightning.network/"><img src="https://img.shields.io/badge/Lightning%20Network-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
   
