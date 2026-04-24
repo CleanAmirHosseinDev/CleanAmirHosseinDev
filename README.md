@@ -215,7 +215,7 @@ Software Engineer with 6+ years of experience across Web2 enterprise systems and
 
 ### ⚡ Mission Status
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/api?font=Orbitron&pause=1000&color=6B8E23&center=true&vCenter=true&width=435&lines=BLOCKCHAIN+OPERATIONS+ACTIVE;Smart+Contract+Development;DeFi+Protocol+Security;Layer+2+Rollups;Cross-Chain+Interoperability;Nodal+Quantum+Trading;Web3+Ecosystem+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/api?font=Orbitron&pause=1000&color=6B8E23&center=true&vCenter=true&width=2K&lines=BLOCKCHAIN+OPERATIONS+ACTIVE;Smart+Contract+Development;DeFi+Protocol+Security;Layer+2+Rollups;Cross-Chain+Interoperability;Nodal+Quantum+Trading;Web3+Ecosystem+Growth" alt="Typing SVG" />
 </p>
 
 ### 🎨 Tech Stack Icons
