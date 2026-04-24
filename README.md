@@ -21,11 +21,11 @@ Software Engineer with 6+ years of experience across Web2 enterprise systems and
 
 🔹 **Web2 (4+ years):** Backend development with C#/.NET (2.2–9), .NET Framework, SQL Server, NoSQL (PostgresDB, Redis), and JavaScript/MVC. Experienced in financial trading platforms, order book systems, fund management, market depth, microservices architecture, hybrid distributed systems, message transit, clean code principles (DDD, BDD, TDD), SOLID, and enterprise integration patterns.
 
-🔹 **Blockchain & Web3 (2+ years):** Smart contract development with Solidity (EIPs, ERC standards), DeFi protocols, Account Abstraction (ERC-4337), Decentralized Identity (DID), and cross-chain solutions. Hands-on experience with zkSync, Stellar & Soroban (Rust), Solana (Rust), Layer 2 rollups (Optimism, Arbitrum), Bitcoin Layer 2s (Lightning Network, Stacks). Deep understanding of Chainlink (oracles, VRF, CCIP), The Graph (subgraphs), IPFS, Filecoin, Arweave, and other Web3 infrastructure components. Expertise in DeFi primitives including AMMs (Uniswap v3 mechanics), lending protocols (Aave, Compound), yield farming, staking, liquidity pools, flash loans, and governance systems.
+🔹 **Blockchain & Web3 (2+ years):** Smart contract development with Solidity (EIPs, ERC standards), DeFi protocols, Account Abstraction (ERC-4337), Decentralized Identity (DID), and cross-chain solutions. Hands-on experience with zkSync, Solana (Rust), Layer 2 rollups (Optimism, Arbitrum), Bitcoin Layer 2s (Lightning Network, Stacks). Deep understanding of Chainlink (oracles, VRF, CCIP), The Graph (subgraphs), IPFS, Filecoin, Arweave, and other Web3 infrastructure components. Expertise in DeFi primitives including AMMs (Uniswap v3 mechanics), lending protocols (Aave, Compound), yield farming, staking, liquidity pools, flash loans, and governance systems.
 
 **Core Skills:**
 - **Web2:** C#/.NET | SQL/NoSQL (Postgres, Redis) | DDD/BDD/TDD | Microservices | Message Transit | Clean Code | SOLID | Financial Systems
-- **Blockchain:** Solidity | Rust (Stellar Soroban, Solana) | EIPs (1559, 4337, 721, 1155, 4626, etc.) | ERC Standards | zkSync | StarkNet | Optimism | Arbitrum | Bitcoin L2s (Lightning Network) | Stellar
+- **Blockchain:** Solidity | Rust (Solana) | EIPs (1559, 4337, 721, 1155, 4626, etc.) | ERC Standards | zkSync | StarkNet | Optimism | Arbitrum | Bitcoin L2s (Lightning Network) 
 - **DeFi:** AMMs | Uniswap v3 | Lending/Borrowing | Yield Farming | Liquidity Pools | Flash Loans | Governance | Tokenomics
 - **Web3 Infrastructure:** Chainlink | The Graph | IPFS | Filecoin | Arweave | DID | Ethers.js | Web3.js | Hardhat | Foundry
 - **Tools:** Docker | Git | Kubernetes | CI/CD | Redis
@@ -103,7 +103,6 @@ Software Engineer with 6+ years of experience across Web2 enterprise systems and
   <img src="https://img.shields.io/badge/Optimism%20%7C%20Arbitrum-FF0420?style=flat-square&logo=optimism&logoColor=white" alt="Optimism/Arbitrum"/>
   <img src="https://img.shields.io/badge/Bitcoin%20L2s%20(Lightning%2C%20Stacks)-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin L2s"/>
   <img src="https://img.shields.io/badge/Solana%20(Rust)-556B2F?style=flat-square&logo=solana&logoColor=white" alt="Solana"/>
-  <img src="https://img.shields.io/badge/Stellar%20Soroban%20(Rust)-7D3C98?style=flat-square&logo=stellar&logoColor=white" alt="Stellar Soroban"/>
   <img src="https://img.shields.io/badge/DID%20(Decentralized%20Identity)-25D366?style=flat-square&logo=identity&logoColor=white" alt="DID"/>
   <img src="https://img.shields.io/badge/Chainlink%20(VRF%2C%20CCIP)-375BD2?style=flat-square&logo=chainlink&logoColor=white" alt="Chainlink"/>
   <img src="https://img.shields.io/badge/The%20Graph%20(Subgraphs)-6746D5?style=flat-square&logo=thegraph&logoColor=white" alt="The Graph"/>
@@ -242,7 +241,7 @@ Software Engineer with 6+ years of experience across Web2 enterprise systems and
 
 ### 📡 Operational Command Center
 <p align="center">
-  <img src="https://img.shields.io/badge/BLOCKCHAIN%20OPS-Multi--Chain%20(Ethereum%2C%20Solana%2C%20Stellar)-2F4F2F?style=for-the-badge&logo=ethereum&logoColor=white" alt="Multi-Chain"/>
+  <img src="https://img.shields.io/badge/BLOCKCHAIN%20OPS-Multi--Chain%20(Ethereum%2C%20Solana)-2F4F2F?style=for-the-badge&logo=ethereum&logoColor=white" alt="Multi-Chain"/>
   <img src="https://img.shields.io/badge/SECURITY%20AUDITS-Active%20%7C%20Bug%20Bounty-6B8E23?style=for-the-badge&logo=shield&logoColor=white" alt="Security"/>
   <img src="https://img.shields.io/badge/PROTOCOL%20DEV-DeFi%20%7C%20AMMs%20%7C%20Lending-556B2F?style=for-the-badge&logo=code&logoColor=white" alt="DeFi Dev"/>
   <img src="https://img.shields.io/badge/WEB2%20SYSTEMS-Enterprise%20%7C%20Microservices-8B7355?style=for-the-badge&logo=server&logoColor=white" alt="Web2 Systems"/>
